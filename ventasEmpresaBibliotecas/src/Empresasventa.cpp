@@ -3,7 +3,7 @@
 #include <iomanip>
 
 using namespace std;
-
+//constructor del objeto empresa
 Empresasventa::Empresasventa(string nombreEmpresa)
 {
     empresaNombre=nombreEmpresa;
@@ -79,7 +79,7 @@ void Empresasventa::mostrarReporte() {
 float Empresasventa::getPromedioGeneral() const {
     return promedioGeneral;
 }
-
+//destructor del objeto empresa
 Empresasventa::~Empresasventa()
 {
     //dtor
