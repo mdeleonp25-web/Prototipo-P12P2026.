@@ -13,7 +13,7 @@ Empresasventa::Empresasventa(string nombreEmpresa)
     }
     promedioGeneral=0;
 }
-
+ //metodo para inicializar las matrices
 void Empresasventa::inicializarMatriz()
 {
     for(int y=0; y < CANTIDAD_EMPLEADOS; y++){
@@ -22,7 +22,7 @@ void Empresasventa::inicializarMatriz()
         }
     }
 }
-
+//metodo generador de numeros aleatorios
 int Empresasventa::generarAleatorio(int minimo, int maximo) {
     return minimo + rand() / (RAND_MAX / (maximo - minimo + 1) + 1);
 }
