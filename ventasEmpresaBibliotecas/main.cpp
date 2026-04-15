@@ -1,9 +1,10 @@
+//declaracion de librerias
 #include <iostream>
 #include <unistd.h>
 #include "Empresasventa.h"
 
 using namespace std;
-
+//funcion main para funcionamiento del programa usando librerias
 int main() {
     srand(getpid());
     char opcion;
