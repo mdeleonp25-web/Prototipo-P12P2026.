@@ -1,0 +1,29 @@
+commit 65c813e631d40cd6b390070fd86881f65de08674
+Author: Moises De Leon <mdeleonp25@miumg.edu.gt>
+Date:   Wed Apr 15 10:30:28 2026 -0600
+
+    quinto commit
+
+commit 3a695369bec16ac99b3dbfa953c3702002e499ef
+Author: Moises De Leon <mdeleonp25@miumg.edu.gt>
+Date:   Wed Apr 15 10:28:46 2026 -0600
+
+    cuarto commit
+
+commit 84627450f71404974c5c4ac808b26a0b88abd402
+Author: Moises De Leon <mdeleonp25@miumg.edu.gt>
+Date:   Wed Apr 15 10:27:35 2026 -0600
+
+    tercer commit
+
+commit aaf04c2a9b9c71cd7ee2e8ba03a14e86df316956
+Author: Moises De Leon <mdeleonp25@miumg.edu.gt>
+Date:   Wed Apr 15 10:25:12 2026 -0600
+
+    segundo commit
+
+commit d2048033ed7da57649ebf4151e8278e73906ce3d
+Author: Moises De Leon <mdeleonp25@miumg.edu.gt>
+Date:   Wed Apr 15 10:21:55 2026 -0600
+
+    archivo parcial 2
