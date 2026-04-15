@@ -9,6 +9,7 @@ using namespace std;
 class Empresasventa
 {
 private:
+    //declaracion de constantes
     static const int CANTIDAD_EMPLEADOS = 5;
     static const int NUMERO_TRIMESTRES = 4;
 
@@ -20,6 +21,7 @@ private:
     void imprimirLinea();
 
 public:
+    //declaracion de metodos
     Empresasventa(string nombreEmpresa);
     void inicializarMatriz();
     void llenarVentas();
